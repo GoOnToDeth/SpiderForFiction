@@ -1,5 +1,5 @@
 ## 简介
-Python实现的某网站小说爬取，并输出成gtml文件。
+Python实现的某网站小说爬取，并输出成html文件。
 
 ## 输出结果
 <img width="70%" src="https://github.com/GoOnToDeth/SpiderForFiction/blob/master/images/result.png" />
